@@ -8,15 +8,15 @@ export const projectsData = [
         code: 'https://github.com/pandeygopal/EcomProject',
         demo: '',
     },
-    // {
-    //     id: 2,
-    //     name: 'Travel Agency App',
-    //     description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
-    //     tools: ['NextJS', 'Tailwind CSS', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Sun-Editor", "Gmail Passkey"],
-    //     role: 'Full Stack Developer',
-    //     code: '',
-    //     demo: '',
-    // },
+   {
+    id: 2,
+    name: 'AI-Powered Personalized Tutor System',
+    description: "During my industrial training with Intel, I developed this AI-Powered Tutor to create adaptive learning experiences. The system uses ML models (RandomForest, XGBoost) for student performance prediction and recommends tailored content. A key feature is the AI-powered PDF querying engine, built with Langchain and a RAG architecture (FAISS/Chroma), allowing students to interact with study materials conversationally. The entire application is delivered through a user-friendly Streamlit interface, showcasing a complete, data-driven educational tool.",
+    tools: ['Streamlit', 'Scikit-learn', 'XGBoost', 'Pandas', 'Langchain', 'FAISS', 'NumPy', 'Matplotlib'],
+    role: 'AI/ML Developer',
+    code: 'https://github.com/pandeygopal/intel_unnati_Ai_Tutor',
+    demo: '',
+  }
     // {
     //     id: 3,
     //     name: 'AI Powered Real Estate',
