@@ -12,9 +12,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
-
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://abusaid.netlify.app/)](https://gopalpandeyportfolio.netlify.app/).
 
 ---
 
@@ -147,21 +145,16 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Gopal Pandey",
   profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  designation: "Java Backend Developer",
+  description: "I am a Java backend developer specializing in Spring Boot, microservices, and cloud-native solutions. Experienced in Kafka, Redis, and modern backend architectures.",
+  email: "your-email@example.com",
+  phone: "+91XXXXXXXXXX",
+  address: "Gurgaon, India",
+  github: "https://github.com/yourgithub",
+  linkedIn: "https://www.linkedin.com/in/yourlinkedin",
+  resume: "https://link-to-your-resume.com",
 };
 ```
 
