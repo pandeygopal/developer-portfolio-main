@@ -2,7 +2,8 @@ export const projectsData = [
     {
         id: 1,
         name: 'BuyAnytime-A Ecommerce Website',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
+        description: "My team and I built BuyAnytime, a complete, cloud-native e-commerce backend designed to serve as the foundation for a modern online retail platform. I have developed the entire system using a microservices architecture with Java 17, Spring Boot 3, and Spring Cloud. For authentication, we implemented a robust JWT-based system for role-based access control. To ensure high performance and resilience, we built an event-driven ecosystem using Apache Kafka, which decouples the order, payment, and email services. High-traffic data is cached using Redis to reduce database load. The entire infrastructure is containerized with Docker and monitored with Zipkin for distributed tracing, creating a scalable and maintainable solution.
+",
         tools: ['Spring boot', 'My SQL', 'Redis', 'Kafka', 'Docker', 'Zipkin', 'Cloudinary', 'Razorpay', 'Postman'],
         role: 'Backend Developer',
         code: 'https://github.com/pandeygopal/EcomProject',
