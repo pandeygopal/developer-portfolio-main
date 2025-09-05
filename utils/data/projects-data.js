@@ -2,8 +2,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'BuyAnytime-A Ecommerce Website',
-        description: "My team and I built BuyAnytime, a complete, cloud-native e-commerce backend designed to serve as the foundation for a modern online retail platform. I have developed the entire system using a microservices architecture with Java 17, Spring Boot 3, and Spring Cloud. For authentication, we implemented a robust JWT-based system for role-based access control. To ensure high performance and resilience, we built an event-driven ecosystem using Apache Kafka, which decouples the order, payment, and email services. High-traffic data is cached using Redis to reduce database load. The entire infrastructure is containerized with Docker and monitored with Zipkin for distributed tracing, creating a scalable and maintainable solution.
-",
+        description: "My team and I built BuyAnytime, a cloud-native e-commerce backend using microservices with Java 17, Spring Boot 3, and Spring Cloud. It features JWT-based authentication, an event-driven system with Apache Kafka for order, payment, and email services, Redis caching for high-traffic data, Docker containerization, and Zipkin monitoring for scalable, resilient, and high-performance operations.",
         tools: ['Spring boot', 'My SQL', 'Redis', 'Kafka', 'Docker', 'Zipkin', 'Cloudinary', 'Razorpay', 'Postman'],
         role: 'Backend Developer',
         code: 'https://github.com/pandeygopal/EcomProject',
